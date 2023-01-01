@@ -1,0 +1,22 @@
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#song_name_btn
+{
+    height: 30px;
+    width: 90;
+}
+
+canvas
+{
+    border-style: ridge;
+    border-width: 5px;
+    border-color: springgreen;
+}
